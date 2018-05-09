@@ -17,7 +17,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <nav class="navbar navbar-light bg-light">
                 <a class="navbar-brand" href="#">
-                    <img src="images/logo.png"  alt="" width="200" height="74">
+                    <img src="images/pokemon.jpg"  alt="Logo Pokemon" width="200" height="74">
                 </a>
             </nav>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

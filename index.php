@@ -45,7 +45,7 @@ $reponse = $db->query("SELECT * FROM Pokemon");
        <nav class="navbar navbar-expand-lg navbar-light bg-light">
            <nav class="navbar navbar-light bg-light">
                <a class="navbar-brand" href="#">
-                   <img src="//via.placeholder.com/45x45\" alt="" href="/">
+                   <img src="images/pokemon.jpg" alt="Logo Pokemon" width="200" height="74">
                </a>
            </nav>
            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,7 +75,7 @@ $reponse = $db->query("SELECT * FROM Pokemon");
         <div class="row">
             <div class="col-3">
                 <ul class="menu-famille">
-                    <form action="recherchetype.php">
+                    <form action="rechertype.php">
                         <div class="form-group">
                             <label for="choixType">Choix du type</label>
                             <select class="form-control" name="type" id="choixType">
